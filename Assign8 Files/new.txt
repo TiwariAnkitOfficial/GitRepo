@@ -1,0 +1,110 @@
+I am AnkitT mat bat rat hat
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ\s
+321-555-4321
+1234567890
+Ha HaHa
+MetaCharacters (Need to be escaped):
+. ^ $ * + ? { } [ ] \ | ( )
+guptaabhishek.com
+abhishek-8765-gupta@yahoo.com
+abhi_gyupta@gamil.abc
+321-555-4321
+123.555.1234
+123*555*1234
+123.555.1234
+800-555-1234
+900-555-1234
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs. Robinson
+Mr. T
+Mr_hello
+abhsihek.gupta@gmail.com
+abhishek-1234gupta@gmail.org
+abhishek@hotmail.net'
+' + data'
+' + data
+I am AnkitT mat bat rat hat
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ\s
+321-555-4321
+1234567890
+Ha HaHa
+MetaCharacters (Need to be escaped):
+. ^ $ * + ? { } [ ] \ | ( )
+guptaabhishek.com
+abhishek-8765-gupta@yahoo.com
+abhi_gyupta@gamil.abc
+321-555-4321
+123.555.1234
+123*555*1234
+123.555.1234
+800-555-1234
+900-555-1234
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs. Robinson
+Mr. T
+Mr_hello
+abhsihek.gupta@gmail.com
+abhishek-1234gupta@gmail.org
+abhishek@hotmail.net'
+' + data
+I am AnkitT mat bat rat hat
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ\s
+321-555-4321
+1234567890
+Ha HaHa
+MetaCharacters (Need to be escaped):
+. ^ $ * + ? { } [ ] \ | ( )
+guptaabhishek.com
+abhishek-8765-gupta@yahoo.com
+abhi_gyupta@gamil.abc
+321-555-4321
+123.555.1234
+123*555*1234
+123.555.1234
+800-555-1234
+900-555-1234
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs. Robinson
+Mr. T
+Mr_hello
+abhsihek.gupta@gmail.com
+abhishek-1234gupta@gmail.org
+abhishek@hotmail.net'
+' + data'
+' + data
+I am AnkitT mat bat rat hat
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ\s
+321-555-4321
+1234567890
+Ha HaHa
+MetaCharacters (Need to be escaped):
+. ^ $ * + ? { } [ ] \ | ( )
+guptaabhishek.com
+abhishek-8765-gupta@yahoo.com
+abhi_gyupta@gamil.abc
+321-555-4321
+123.555.1234
+123*555*1234
+123.555.1234
+800-555-1234
+900-555-1234
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs. Robinson
+Mr. T
+Mr_hello
+abhsihek.gupta@gmail.com
+abhishek-1234gupta@gmail.org
+abhishek@hotmail.net'
+' + data
